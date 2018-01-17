@@ -12,7 +12,9 @@ Add Library-Create...
 
 
 Classpaths: webcam-capture-0.3.11.jar
+            
             \libs\bridj-0.7.0.jar
+            
             \libs\slf4j-api-1.7.2.jar
             
 Sources: \src folder
